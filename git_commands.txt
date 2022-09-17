@@ -1,0 +1,9 @@
+git clone -v https://github.com/
+git status
+git add git_commands.txt
+git commit -m "git commands list"
+git push 
+
+
+git config --global user.email "sbshuvo.bme.buet@gmail.com"
+git config --global user.name "samiulshuvo"
