@@ -7,3 +7,6 @@ git push
 
 git config --global user.email "sbshuvo.bme.buet@gmail.com"
 git config --global user.name "samiulshuvo"
+
+tensorboard
+tensorboard --logdir=runs
